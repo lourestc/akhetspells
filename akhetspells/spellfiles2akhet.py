@@ -1,4 +1,4 @@
-from spellbook import *
+from .spellbook import *
 
 from pathlib import Path
 import pickle
