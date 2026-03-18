@@ -1,0 +1,14 @@
+# Generated outputs
+*.bin
+dndtools_spells.csv
+nextw.txt
+
+# Raw data
+dndtools_spells/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
