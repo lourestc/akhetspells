@@ -10,6 +10,7 @@ python = "^3.13"
 lxml = "*"
 pandas = "*"
 jupyter = "*"
+streamlit = ">=1.35"
 
 [tool.poetry.group.dev.dependencies]
 
