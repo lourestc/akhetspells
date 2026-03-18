@@ -1,7 +1,7 @@
 import pickle
 import math
 import streamlit as st
-from spellbook import Spell, Spellbook
+from akhetspells import Spell, Spellbook
 
 LIBRARY_PATH = "Papiros Imperiais de Akhetmun-Heh.bin"
 
